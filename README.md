@@ -1,6 +1,5 @@
 # postman
-Работа с API 
-"password": "rjrjxrf0!"
+
 body: {
      "user": {
          "username": "memeboys",
